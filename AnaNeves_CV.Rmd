@@ -72,7 +72,7 @@ short <- FALSE
 ```{r Education}
 data <- rbind(tibble(
   what = "Doctor of Philosophy (PhD) - Psychology",
-  when = "2024 - ongoing",
+  when = "2024 - ",
   with = "University of Sussex",
   where = "UK",
   details = paste0(
@@ -80,8 +80,8 @@ data <- rbind(tibble(
     link("Dr. Dominique Makowski", "https://dominiquemakowski.github.io/")
   )
 ), tibble(
-  what = "Research Masters in Psychological Methods",
-  when = "2023 - 24",
+  what = "Research Masters (MRes) in Psychological Methods",
+  when = "2023 - 2024",
   with = "Univeristy of Sussex",
   where = "UK",
   details = NA
@@ -109,14 +109,14 @@ vitae::detailed_entries(data, with, when, what, where, details, .protect = FALSE
 ```{r ExperienceTeaching}
 data <- rbind(
   tibble(
-  Position = "Quantitative and Qualitative Methods",
-  Date = "2025",
+  Position = "Doctoral Tutor for Quantitative and Qualitative Methods",
+  Date = "Jan-Apr, 2025",
   Institution = "University of Sussex",
   Where = "Brighton, UK",
   Activity = paste0("Facilitated students’ critical engagement with quantitative and qualitative research methods in psychology, with a particular focus on measurement issues and the interpretive decisions researchers make when investigating complex psychological constructs.")
 ), tibble(
-  Position = "Discovering Statistics",
-  Date = "2024",
+  Position = "Doctoral Tutor for Discovering Statistics",
+  Date = "Sep-Dec, 2024",
   Institution = "University of Sussex",
   Where = "Brighton, UK",
   Activity = paste0("Supported students in developing both theoretical understanding and practical skills in implementing, interpreting, and reporting statistical analyses, with a focus on the linear model.")
