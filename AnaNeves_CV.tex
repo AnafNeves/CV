@@ -1,0 +1,239 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for CV/Resume
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Author:
+% Claud D. Park <posquit0.bj@gmail.com>
+% http://www.posquit0.com
+%
+%
+% Adapted to be an Rmarkdown template by Mitchell O'Hara-Wild
+% 23 November 2018
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt,a4paper,]{awesome-cv}
+
+% Configure page margins with geometry
+\usepackage{geometry}
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+
+\definecolor{awesome}{HTML}{8e7cc3}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+\def\endfirstpage{\newpage}
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+
+\photo{./Images/profile.jpeg}
+\name{Neves}{Ana}
+
+\position{Psychology PhD Researcher}
+\address{University of Sussex, Brighton, UK}
+
+\email{\href{mailto:A.Neves@sussex.ac.uk}{\nolinkurl{A.Neves@sussex.ac.uk}}}
+\github{AnafNeves}
+
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \skype{skype-id}
+% \reddit{reddit-id}
+
+\quote{\RaggedRight  Doctoral Tutor and PhD researcher in Psychology at
+the University of Sussex, supervised by Dr Dominique Makowski. My
+research explores the role of interoception - our perception of internal
+bodily states - in shaping emotional experiences and beliefs about
+reality. I use a combination of behavioural tasks and physiological
+measures to investigate how bodily awareness influences responses to
+emotionally evocative stimuli.}
+
+\usepackage{booktabs}
+
+\providecommand{\tightlist}{%
+	\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%------------------------------------------------------------------------------
+
+
+
+% Pandoc CSL macros
+
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+% 2019-02-14 Chris Umphlett - add flexibility to the document name in footer, rather than have it be static Curriculum Vitae
+\makecvfooter
+  {May 2025}
+    {Neves Ana~~~·~~~Curriculum Vitae}
+  {\thepage~ of \pageref{LastPage}~}
+
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%	Each section is imported separately, open each file in turn to modify content
+%------------------------------------------------------------------------------
+
+
+
+\normalsize
+
+\section{Education}\label{education}
+
+\begin{cventries}
+    \cventry{University of Sussex}{Doctor of Philosophy (PhD) - Psychology}{UK}{2024 - ongoing}{\begin{cvitems}
+\item supervised by \href{https://dominiquemakowski.github.io/}{\color[HTML]{1976D2}{Dr. Dominique Makowski}}
+\end{cvitems}}
+    \cventry{Univeristy of Sussex}{Research Masters in Psychological Methods}{UK}{2023 - 24}{}\vspace{-4.0mm}
+    \cventry{University of Sussex}{Bachelor of Science (BSc) - Psychology with Cognitive Science}{UK}{2018 - 2022}{}\vspace{-4.0mm}
+\end{cventries}
+
+\section{Experience}\label{experience}
+
+\subsection{Teaching}\label{teaching}
+
+\begin{cventries}
+    \cventry{University of Sussex}{Quantitative and Qualitative Methods}{Brighton, UK}{2025}{\begin{cvitems}
+\item Facilitated students’ critical engagement with quantitative and qualitative research methods in psychology, with a particular focus on measurement issues and the interpretive decisions researchers make when investigating complex psychological constructs.
+\end{cvitems}}
+    \cventry{University of Sussex}{Discovering Statistics}{Brighton, UK}{2024}{\begin{cvitems}
+\item Supported students in developing both theoretical understanding and practical skills in implementing, interpreting, and reporting statistical analyses, with a focus on the linear model.
+\end{cvitems}}
+\end{cventries}
+
+\section{Skills}\label{skills}
+
+\subsection{Language}\label{language}
+
+\small
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Portuguese}: Native
+\item
+  \textbf{English}: Fluent
+\end{itemize}
+
+\normalsize
+
+\subsection{Research}\label{research}
+
+\small
+
+My PhD investigates how awareness that a stimulus is `fake' influences
+emotional and belief-related responses, and seeks to identify the
+factors that shape these reality judgments. A key focus is the role of
+interoception in modulating affective responses - measured in terms of
+intensity, valence, and eroticism. We are also keen on exploring the use
+of transcutaneous vagus nerve stimulation (tVNS) to manipulate
+interoceptive sensitivity, with the aim of determining whether such
+modulation affects both physiological and subjective responses to
+stimuli labelled as `fake', as well as their perceived realism.
+
+\normalsize
+
+\small
+
+\subsection{Techniques, Methods and Open
+Science}\label{techniques-methods-and-open-science}
+
+I am currently developing technical expertise in EEG, physiological
+signal processing, and computational methods including Bayesian
+modelling. Aligned with my supervisor's
+(\href{https://github.com/DominiqueMakowski}{\color[HTML]{1976D2}{\textbf{GitHub}}})
+commitment to open science, I actively contribute to open-source
+communities (e.g., on
+\href{https://github.com/AnafNeves}{\color[HTML]{1976D2}{\textbf{GitHub}}})
+to support accessibility and transparency in research.
+
+I am committed to the highest standards of open and reproducible
+science, routinely sharing data, materials, and analysis scripts. This
+commitment is grounded in a strong emphasis on methodological rigour and
+ethical responsibility throughout the research process.
+
+\subsection{Other Projects}\label{other-projects}
+
+I am also currently collaborating on a project outside my PhD with a PhD
+researcher at Macquarie University in Sydney, Australia
+(\href{https://github.com/Tam-Pham}{\color[HTML]{1976D2}{\textbf{GitHub}}}).
+The project is a meta-analysis examining the association between
+psychopathology and heart rate variability.
+
+\section{Publications}\label{publications}
+
+Makowski, D., Te, A. S., \textbf{Neves, A.}, Kirk, S., Liang, N. Z.,
+Mavros, P., \& Chen, S. A. (2025).
+\href{https://doi.org/10.1016/j.actpsy.2024.104670}{Too beautiful to be
+fake: Attractive faces are less likely to be judged as artificially
+generated}. \emph{Acta Psychologica}, 252, 104670.
+
+\subsection{Pre-Prints}\label{pre-prints}
+
+\small
+
+Makowski, D., \textbf{Neves, A.}(2025).
+\href{https://doi.org/10.31234/osf.io/873th_v3}{Testing the Relationship
+between Phenomenological Control related to Illusion Sensitivity}
+
+Makowski, D., Te, A. S., \textbf{Neves, A.}, \& Chen, S. A. (2024).
+\href{https://doi.org/10.31234/osf.io/436np}{Measuring Depression and
+Anxiety with 4 items? Adaptation of the PHQ-4 to increase its
+Sensitivity to Subclinical Variability}
+
+\normalsize
+
+\section{References}\label{references}
+
+\small
+
+Contact in case of inquiry.
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Dr Dominique Makowski} (PhD supervisor):
+  \href{mailto:d.makowski@sussex.ac.uk}{\nolinkurl{d.makowski@sussex.ac.uk}}
+\end{itemize}
+
+\normalsize
+
+
+\label{LastPage}~
+\end{document}
