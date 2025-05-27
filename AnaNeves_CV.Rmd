@@ -122,7 +122,6 @@ data <- rbind(
   Activity = paste0("Supported students in developing both theoretical understanding and practical skills in implementing, interpreting, and reporting statistical analyses, with a focus on the linear model.")
 ))
 
-
 # Save for re-useability
 write.csv(data, "data/experience_teaching.csv", row.names = FALSE, fileEncoding = "UTF-8")
 
