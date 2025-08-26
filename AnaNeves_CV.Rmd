@@ -11,15 +11,15 @@ github: AnafNeves
 # linkedin: dominiquemakowski
 # orcid: "0000-0001-5375-9967"
 aboutme: |
-  \RaggedRight  Doctoral Tutor and PhD researcher in Psychology at the University of Sussex, supervised by Dr Dominique Makowski. My research explores the role of interoception - our perception of internal bodily states - in shaping emotional experiences and beliefs about reality. I use a combination of behavioural tasks and physiological measures to investigate how bodily awareness influences responses to emotionally evocative stimuli. 
+    \RaggedRight  Doctoral Tutor and PhD researcher in Psychology at the University of Sussex, supervised by Dr Dominique Makowski. My research explores the role of interoception - our perception of internal bodily states - in shaping emotional experiences and beliefs about reality. I use a combination of behavioural tasks and physiological measures to investigate how bodily awareness influences responses to emotionally evocative stimuli.
 date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: "8e7cc3"
 output:
-  vitae::awesomecv:
-    page_total: true
-    keep_md: true
+    vitae::awesomecv:
+        page_total: true
+        keep_md: true
 editor_options:
-  chunk_output_type: console
+    chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
@@ -66,7 +66,6 @@ short <- FALSE
 
 \normalsize
 
-
 # Education
 
 ```{r Education}
@@ -101,7 +100,6 @@ if (short) {
 vitae::detailed_entries(data, with, when, what, where, details, .protect = FALSE)
 ```
 
-
 # Experience
 
 ## Teaching
@@ -134,8 +132,8 @@ vitae::detailed_entries(data, Institution, Date, Position, Where, Activity, .pro
 
 \small
 
-- **Portuguese**: Native
-- **English**: Fluent
+-   **Portuguese**: Native
+-   **English**: Fluent
 
 \normalsize
 
@@ -161,7 +159,9 @@ I am also currently collaborating on a project outside my PhD with a PhD researc
 
 # Publications
 
-Makowski, D., Te, A. S., **Neves, A.**, Kirk, S., Liang, N. Z., Mavros, P., & Chen, S. A. (2025). [Too beautiful to be fake: Attractive faces are less likely to be judged as artificially generated](https://doi.org/10.1016/j.actpsy.2024.104670). *Acta Psychologica*, 252, 104670.
+Makowski, D., Te, A. S., **Neves, A.**, Kirk, S., Liang, N. Z., Mavros, P., & Chen, S. A. (2025). [Too beautiful to be fake: Attractive faces are less likely to be judged as artificially generated](https://doi.org/10.1016/j.actpsy.2024.104670). _Acta Psychologica_, 252, 104670.
+
+Makowski, D., Te, A. S., **Neves, A.**, & Chen, S. A. (2025). [Measuring Depression and Anxiety With 4 Items? Adaptation of the PHQ-4 to Increase Its Sensitivity to Subclinical Variability Open Access](https://doi.org/10.1525/collabra.143431). _Collabra: Psychology_, 11(1), 143431.
 
 ## Pre-Prints
 
@@ -169,7 +169,9 @@ Makowski, D., Te, A. S., **Neves, A.**, Kirk, S., Liang, N. Z., Mavros, P., & Ch
 
 Makowski, D., **Neves, A.**(2025). [Testing the Relationship between Phenomenological Control related to Illusion Sensitivity](https://doi.org/10.31234/osf.io/873th_v3)
 
-Makowski, D., Te, A. S., **Neves, A.**, & Chen, S. A. (2024). [Measuring Depression and Anxiety with 4 items? Adaptation of the PHQ-4 to increase its Sensitivity to Subclinical Variability](https://doi.org/10.31234/osf.io/436np)
+Makowski, D., Neves, A., & Field, A. (2025). [Introducing the Choice-Confidence (CHOCO) Model for Bimodal Data from Subjective Ratings: Application to the Effect of Attractiveness on Reality Beliefs about AI-Generated Faces](https://osf.io/preprints/psyarxiv/z68v3_v1)
+
+Makowski, D., Neves, A., Benn, E. L., Bennett, M., & Poerio, G. (2025). [The Mint Scale: A Fresh Validation of the Multimodal Interoception Questionnaire and Comparison to the MAIA, BPQ and IAS](https://osf.io/preprints/psyarxiv/8qrht_v1)
 
 \normalsize
 
@@ -179,6 +181,6 @@ Makowski, D., Te, A. S., **Neves, A.**, & Chen, S. A. (2024). [Measuring Depress
 
 Contact in case of inquiry.
 
-- **Dr Dominique Makowski** (PhD supervisor): d.makowski@sussex.ac.uk
+-   **Dr Dominique Makowski** (PhD supervisor): d.makowski@sussex.ac.uk
 
 \normalsize
