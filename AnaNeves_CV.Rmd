@@ -107,18 +107,27 @@ vitae::detailed_entries(data, with, when, what, where, details, .protect = FALSE
 ```{r ExperienceTeaching}
 data <- rbind(
   tibble(
-  Position = "Doctoral Tutor for Quantitative and Qualitative Methods",
-  Date = "Jan-Apr, 2025",
-  Institution = "University of Sussex",
-  Where = "Brighton, UK",
-  Activity = paste0("Facilitated students’ critical engagement with quantitative and qualitative research methods in psychology, with a particular focus on measurement issues and the interpretive decisions researchers make when investigating complex psychological constructs.")
-), tibble(
-  Position = "Doctoral Tutor for Discovering Statistics",
-  Date = "Sep-Dec, 2024",
-  Institution = "University of Sussex",
-  Where = "Brighton, UK",
-  Activity = paste0("Supported students in developing both theoretical understanding and practical skills in implementing, interpreting, and reporting statistical analyses, with a focus on the linear model.")
-))
+    Position = "Doctoral Tutor for Analysing Data",
+    Date = "Jan-Apr, 2026",
+    Institution = "University of Sussex",
+    Where = "Brighton, UK",
+    Activity = paste0("Provided tutorial support for first-year undergraduate psychology students in R programming, data wrangling, data visualisation, and statistical analysis (correlations, t-tests, chi-squared tests, and linear regression).")
+  ), 
+  tibble(
+    Position = "Doctoral Tutor for Quantitative and Qualitative Methods",
+    Date = "Jan-Apr, 2025",
+    Institution = "University of Sussex",
+    Where = "Brighton, UK",
+    Activity = paste0("Facilitated students’ critical engagement with quantitative and qualitative research methods in psychology, with a particular focus on measurement issues and the interpretive decisions researchers make when investigating complex psychological constructs.")
+  ), 
+  tibble(
+    Position = "Doctoral Tutor for Discovering Statistics",
+    Date = "Sep-Dec, 2024/2025",
+    Institution = "University of Sussex",
+    Where = "Brighton, UK",
+    Activity = paste0("Supported students in developing both theoretical understanding and practical skills in implementing, interpreting, and reporting statistical analyses, with a focus on the linear model.")
+  )
+)
 
 # Save for re-useability
 write.csv(data, "data/experience_teaching.csv", row.names = FALSE, fileEncoding = "UTF-8")
@@ -167,13 +176,21 @@ Makowski, D., Te, A. S., **Neves, A.**, & Chen, S. A. (2025). [Measuring Depress
 
 \small
 
-Makowski, D., **Neves, A.**(2025). [Testing the Relationship between Phenomenological Control related to Illusion Sensitivity](https://doi.org/10.31234/osf.io/873th_v3)
+[Mega-analysis of the Interoceptive Accuracy Scale (IAS) Structure andits Dispositional Correlates](https://osf.io/preprints/psyarxiv/2mpqd_v1)
+
+
+Makowski, D., **Neves, A.**(2026). [Testing the Relationship between Phenomenological Control related to Illusion Sensitivity](https://osf.io/preprints/psyarxiv/873th_v5)
+
+Makowski, D., **Neves, A.**, Benn, E. L., Bennett, M., & Poerio, G. (2026). [The Mint Scale: A Fresh Validation of the Multimodal Interoception Questionnaire and Comparison to the MAIA, BPQ and IAS](https://osf.io/preprints/psyarxiv/8qrht_v1)
+
+Pham, T., Johnco, C., **Neves, A.**, Lim, W., Heng, G., Ygnacio, R., & Forbes, M. (2026). [A Meta-analysis of Heart Rate Variability (HRV) and Psychopathology: An Investigation Guided by the Hierarchical Taxonomy of Psychopathology (HiTOP) Framework.](https://osf.io/preprints/psyarxiv/zu8aq_v1) 
+\normalsize
+
+Scharte, R. E., Greenwood, K., Romero Sanchiz, P., **Neves, A.**, Makowski, D., & Nogueira-Arjona, R. (2026) [Interoception and Substance use: A systematic review and meta-analysis.](https://osf.io/preprints/psyarxiv/gzv78_v1)
+
 
 Makowski, D., **Neves, A.**, & Field, A. (2025). [Introducing the Choice-Confidence (CHOCO) Model for Bimodal Data from Subjective Ratings: Application to the Effect of Attractiveness on Reality Beliefs about AI-Generated Faces](https://osf.io/preprints/psyarxiv/z68v3_v1)
 
-Makowski, D., **Neves, A.**, Benn, E. L., Bennett, M., & Poerio, G. (2025). [The Mint Scale: A Fresh Validation of the Multimodal Interoception Questionnaire and Comparison to the MAIA, BPQ and IAS](https://osf.io/preprints/psyarxiv/8qrht_v1)
-
-\normalsize
 
 # References
 
