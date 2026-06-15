@@ -162,10 +162,6 @@ I am currently developing technical expertise in EEG, physiological signal proce
 
 I am committed to the highest standards of open and reproducible science, routinely sharing data, materials, and analysis scripts. This commitment is grounded in a strong emphasis on methodological rigour and ethical responsibility throughout the research process.
 
-## Other Projects
-
-I am also currently collaborating on a project outside my PhD with a PhD researcher at Macquarie University in Sydney, Australia (`r link("\\textbf{GitHub}","https://github.com/Tam-Pham")`). The project is a meta-analysis examining the association between psychopathology and heart rate variability.
-
 # Publications
 
 Makowski, D., Te, A. S., **Neves, A.**, Kirk, S., Liang, N. Z., Mavros, P., & Chen, S. A. (2025). [Too beautiful to be fake: Attractive faces are less likely to be judged as artificially generated](https://doi.org/10.1016/j.actpsy.2024.104670). _Acta Psychologica_, 252, 104670.
@@ -179,7 +175,7 @@ Makowski, D., Te, A. S., **Neves, A.**, & Chen, S. A. (2025). [Measuring Depress
 [Mega-analysis of the Interoceptive Accuracy Scale (IAS) Structure andits Dispositional Correlates](https://osf.io/preprints/psyarxiv/2mpqd_v1)
 
 
-Makowski, D., **Neves, A.**(2026). [Testing the Relationship between Phenomenological Control related to Illusion Sensitivity](https://osf.io/preprints/psyarxiv/873th_v5)
+Makowski, D., **Neves, A.**(2026). [Testing the Relationship between Phenomenological Control related to Illusion Sensitivity](https://osf.io/preprints/psyarxiv/873th_v7)
 
 Makowski, D., **Neves, A.**, Benn, E. L., Bennett, M., & Poerio, G. (2026). [The Mint Scale: A Fresh Validation of the Multimodal Interoception Questionnaire and Comparison to the MAIA, BPQ and IAS](https://osf.io/preprints/psyarxiv/8qrht_v1)
 
@@ -188,8 +184,19 @@ Pham, T., Johnco, C., **Neves, A.**, Lim, W., Heng, G., Ygnacio, R., & Forbes, M
 
 Scharte, R. E., Greenwood, K., Romero Sanchiz, P., **Neves, A.**, Makowski, D., & Nogueira-Arjona, R. (2026) [Interoception and Substance use: A systematic review and meta-analysis.](https://osf.io/preprints/psyarxiv/gzv78_v1)
 
-
 Makowski, D., **Neves, A.**, & Field, A. (2025). [Introducing the Choice-Confidence (CHOCO) Model for Bimodal Data from Subjective Ratings: Application to the Effect of Attractiveness on Reality Beliefs about AI-Generated Faces](https://osf.io/preprints/psyarxiv/z68v3_v1)
+
+## Talks
+
+\small
+
+**Neves, A.**, Viola, M., Sperduti, M., Marini, M., Ansani, A.,Olivera La Rosa .A., Corradi, G., & Makowski, D. (2026). *Do we find AI-Generated content less emotional? The impact of Reality Beliefs on Affective Responses*,  8th European Society for Cognitive and Affective Neuroscience Meeting, June 3-6, Rome, Italy. 
+
+## Posters
+\small
+
+**Neves, A.**, Viola, M., Sperduti, M., Marini, M., Ansani, A.,Olivera La Rosa .A., Corradi, G., & Makowski, D. (2025). *Do We Find AI-Generated Less Emotional? The Impact Of Reality Beliefs On Affective Responses*, 28th  Association for the Scientific Study of Consciousness, July 6-9, Heraklion, Crete.
+
 
 
 # References
