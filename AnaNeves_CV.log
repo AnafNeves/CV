@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.17)  17 JUN 2026 11:18
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.6.17)  17 JUN 2026 13:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -932,17 +932,17 @@ LaTeX Font Info:    Font shape `TU/SourceSans3(0)/m/it' will be
 LaTeX Font Info:    Font shape `TU/SourceSans3(0)/b/n' will be
 (Font)              scaled to size 10.95pt on input line 235.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 282.
+(Font)              scaled to size 10.00107pt on input line 284.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 282.
+(Font)              scaled to size 7.00075pt on input line 284.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 282.
+(Font)              scaled to size 5.00053pt on input line 284.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 282.
+(Font)              scaled to size 9.99893pt on input line 284.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 282.
+(Font)              scaled to size 6.99925pt on input line 284.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 282.
+(Font)              scaled to size 4.99947pt on input line 284.
 [2] (./AnaNeves_CV.aux)
  ***********
 LaTeX2e <2026-06-01>
@@ -952,10 +952,10 @@ Package rerunfilecheck Info: File `AnaNeves_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 33251 strings out of 469835
- 685428 string characters out of 5467754
- 1256103 words of memory out of 5000000
- 61630 multiletter control sequences out of 15000+600000
+ 33252 strings out of 469835
+ 685435 string characters out of 5467754
+ 1256127 words of memory out of 5000000
+ 61631 multiletter control sequences out of 15000+600000
  632726 words of font info for 147 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  131i,11n,136p,549b,812s stack positions out of 10000i,1000n,20000p,200000b,200000s
