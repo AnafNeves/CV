@@ -8,8 +8,8 @@ address: "University of Sussex, Brighton, UK"
 email: "A.Neves@sussex.ac.uk"
 # twitter: Dom_Makowski
 github: AnafNeves
-# linkedin: dominiquemakowski
-# orcid: "0000-0001-5375-9967"
+linkedin: anasfneves
+orcid: "0009-0006-0020-7599"
 aboutme: |
     \RaggedRight  Doctoral Tutor and PhD researcher in Psychology at the University of Sussex, supervised by Dr Dominique Makowski. My research explores the role of interoception - our perception of internal bodily states - in shaping emotional experiences and beliefs about reality. I use a combination of behavioural tasks and physiological measures to investigate how bodily awareness influences responses to emotionally evocative stimuli.
 date: "`r format(Sys.time(), '%B %Y')`"
