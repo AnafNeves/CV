@@ -168,6 +168,8 @@ Makowski, D., Te, A. S., **Neves, A.**, Kirk, S., Liang, N. Z., Mavros, P., & Ch
 
 Makowski, D., Te, A. S., **Neves, A.**, & Chen, S. A. (2025). [Measuring Depression and Anxiety With 4 Items? Adaptation of the PHQ-4 to Increase Its Sensitivity to Subclinical Variability Open Access](https://doi.org/10.1525/collabra.143431). _Collabra: Psychology_, 11(1), 143431.
 
+Pham, T., Johnco, C., **Neves, A.**, Lim, W., Heng, G., Ygnacio, R., & Forbes, M. (2026). [A Meta-analysis of Heart Rate Variability (HRV) and Psychopathology: An Investigation Guided by the Hierarchical Taxonomy of Psychopathology (HiTOP) Framework.](https://doi.org/10.1037/abn0000936).  _Journal of Psychopathology and Clinical Science_, 135(6), 729–761.
+
 ## Pre-Prints
 
 \small
@@ -178,8 +180,6 @@ Makowski, D., **Neves, A.**(2026). [Testing the Relationship between Phenomenolo
 
 Makowski, D., **Neves, A.**, Benn, E. L., Bennett, M., & Poerio, G. (2026). [The Mint Scale: A Fresh Validation of the Multimodal Interoception Questionnaire and Comparison to the MAIA, BPQ and IAS](https://osf.io/preprints/psyarxiv/8qrht_v1)
 
-Pham, T., Johnco, C., **Neves, A.**, Lim, W., Heng, G., Ygnacio, R., & Forbes, M. (2026). [A Meta-analysis of Heart Rate Variability (HRV) and Psychopathology: An Investigation Guided by the Hierarchical Taxonomy of Psychopathology (HiTOP) Framework.](https://osf.io/preprints/psyarxiv/zu8aq_v1) 
-\normalsize
 
 Scharte, R. E., Greenwood, K., Romero Sanchiz, P., **Neves, A.**, Makowski, D., & Nogueira-Arjona, R. (2026) [Interoception and Substance use: A systematic review and meta-analysis.](https://osf.io/preprints/psyarxiv/gzv78_v1)
 
